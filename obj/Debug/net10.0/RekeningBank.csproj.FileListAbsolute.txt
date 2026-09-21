@@ -1,0 +1,15 @@
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.AssemblyInfoInputs.cache
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.AssemblyInfo.cs
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.csproj.CoreCompileInputs.cache
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\bin\Debug\net10.0\RekeningBank.exe
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\bin\Debug\net10.0\RekeningBank.deps.json
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\bin\Debug\net10.0\RekeningBank.runtimeconfig.json
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\bin\Debug\net10.0\RekeningBank.dll
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\bin\Debug\net10.0\RekeningBank.pdb
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.dll
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\refint\RekeningBank.dll
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.pdb
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\RekeningBank.genruntimeconfig.cache
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\ref\RekeningBank.dll
+C:\Users\Alwan Farhan\source\repos\RekeningBank\RekeningBank\obj\Debug\net10.0\Rekening.32898825.Up2Date
